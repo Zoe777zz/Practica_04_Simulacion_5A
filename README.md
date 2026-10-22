@@ -1,5 +1,4 @@
-# Practica SIR - Java con MVC
-
+# Practica 04
 Modelo de simulacion epidemiologica SIR basado en la guia de la practica 004.
 El programa no crea graficas. Genera `resultados_java.csv` para cargarlo en NetLogo.
 
